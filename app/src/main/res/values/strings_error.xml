@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="err_no_internet_connection">No internet connection.Please check your network connection and try again.</string>
+    <string name="err_unknown_error">Error encountered. Please try again later.</string>
+    <string name="err_news_list_empty">No news available.</string>
+</resources>
